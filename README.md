@@ -1,16 +1,14 @@
-## Hi there 👋
+# aes011204
 
-<!--
-**aes011204/aes011204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Client Programmer
 
-Here are some ideas to get you started:
+게임 클라이언트 개발을 중심으로 프로젝트를 진행하고 있습니다.  
+DirectX 기반 게임에서 게임플레이 시스템, AI, 렌더링, 에디터를 구현했으며, C++ 네트워크 프로젝트를 통해 TCP 통신과 멀티플레이 구조도 구현했습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+C++ · DirectX 11 · HLSL · ImGui · WinSock
+
+### Main Projects
+- Expedition 33 — Turn-based Combat / AI / Behavior Tree Editor
+- DREDGE — DirectX 11 / Rendering / Inventory / Engine & Tools
+- Select Server — TCP / Winsock / Multiplayer Omok
